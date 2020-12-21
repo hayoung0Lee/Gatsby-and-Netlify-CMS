@@ -9,3 +9,4 @@ gatsby new my-gatsby-project https://github.com/fabe/gatsby-universal
 cd my-gatsby-project
 gatsby develop
 ```
+python -m http.server 8080
