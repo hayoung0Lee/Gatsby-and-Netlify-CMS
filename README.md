@@ -2,7 +2,18 @@
 About
 https://www.freecodecamp.org/news/how-to-build-a-blog-with-gatsby-and-netlify-cms/
 
-netlify주소/admin/#/collections 여기 가면 cms도 된다. 
+netlify주소/admin/#/collections 여기 가면 cms도 된다.
+
+## 처음으로 Netlify 및 gatsby를 사용해본 후기
+내가 낯을 좀 가리는 편이라, 아직 낯설지만.. Netlify 는 종종 사용하게 될것같다. Gatsby는 말만 맨날듣고, 사실 제대로 써본적이 없는데, 뭐 얘도 어쩌면 나랑 잘맞을지도..? 서로 알아가는 단계니까~
+
+그리고 이걸 활용하면 초기 버전 개발할때는 비용을 많이 절감할 수 있을 것 같다. 아무래도 나는 리소스 관리쪽은 아직 자신감이 많이 없는데, Netlify의 경우 domain 안붙이면 무료니까, 손쉽게 테스트해보고 로직에만 집중할 수 있을 것 같다. 
+
+그리고 이번에 하면서 Netlify에서 Gatsby 정적 생성기를 사용한 경우에 page not found가 뜬다는데 딱 내가 그랬다. 그래서 [netlify.toml](netlify.toml) 파일을 만들어서 해결했다. [자세히](https://mytutorials.tistory.com/193) 
+
+이번에는 샘플 스타터 예제로 했지만, 좀더 제대로된 사이트를 Netlify + Gatsby를 통해 deploy해봐야겠다. 
+
+# 아래는 Starter docs
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
