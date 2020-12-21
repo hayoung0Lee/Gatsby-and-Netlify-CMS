@@ -1,3 +1,9 @@
+# README
+About
+https://www.freecodecamp.org/news/how-to-build-a-blog-with-gatsby-and-netlify-cms/
+
+netlify주소/admin/#/collections 여기 가면 cms도 된다. 
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
