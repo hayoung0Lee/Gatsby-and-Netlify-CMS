@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   branch: main
-media_folder: "images/uploads"
+media_folder: "public/images" # 파일을 직접 업로드할 수 있는 기능을 사용할 경우 파일 로드/저장 경로 설정. admin 페이지에서 저장/삭제 에디터를 사용할 수 있다. 이 경로는 프로젝트의 root에서 상대값을 가지므로 해당 경로를 잘 설정해줘야 한다.
 collections:
   - name: "blog"
     label: "Blog"
